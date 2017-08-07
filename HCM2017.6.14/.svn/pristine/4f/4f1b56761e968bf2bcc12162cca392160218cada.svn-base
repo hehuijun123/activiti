@@ -1,0 +1,570 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+</head>
+
+<body>
+<div id="BAIDU_DUP_fp_wrapper" style="position: absolute; left: -1px; bottom: -1px; z-index: 0; width: 0px; height: 0px; overflow: hidden; visibility: hidden; display: none;">
+  <iframe id="BAIDU_DUP_fp_iframe" src="https://pos.baidu.com/wh/o.htm?ltr=" style="width: 0px; height: 0px; visibility: hidden; display: none;"></iframe>
+</div>
+<iframe frameborder="0" style="display: none;"></iframe>
+<link rel="stylesheet" href="aa.css">
+<link rel="stylesheet" href="/images/jquery-ui-min.css">
+<script language="javascript">var _hmt = _hmt || []; </script>
+<style type="text/css">
+<!--
+#BodyBox tr td{padding:3px 5px;line-height:24px; font-size:14px; }
+.msdsLeft{ width:25%; text-align:right; vertical-align:middle; color:#4166e0;}
+.msdsRight{width:75%; text-align:left; vertical-align:middle;}
+.msdsLeft15{ width:15%; text-align:right; vertical-align:middle; color:#4166e0;}
+.msdsRight30{width:30%; text-align:left; vertical-align:middle;}
+
+-->
+</style>
+<div id="BodyBox" class="Border1px">
+  <table align="center" border="1" cellspacing="0" rules="all" style="border-collapse:collapse;" width="99%" class="chemicals">
+    <tbody>
+      
+      <tr bgcolor="#ffffff">
+        <td colspan="4" align="center" bgcolor="#FFF7D6">氯三氟甲烷msds目录&nbsp;&nbsp;</td>
+      </tr>
+      <tr bgcolor="#ffffff">
+        <td align="right">第一部分</td>
+        <td width="154"><a href="#section1">化学品及企业标识</a></td>
+        <td align="right">第九部分</td>
+        <td width="152"><a href="#section9">理化特性</a></td>
+      </tr>
+      <tr bgcolor="#ffffff">
+        <td height="20" align="right">第二部分</td>
+        <td><a href="#section2">危险性概述</a></td>
+        <td align="right">第十部分</td>
+        <td><a href="#section10">稳定性和反应活性</a></td>
+      </tr>
+      <tr bgcolor="#ffffff">
+        <td height="23" align="right">第三部分</td>
+        <td><a href="#section3">成分/组成信息</a></td>
+        <td align="right">第十一部分</td>
+        <td><a href="#section11">毒理学信息</a></td>
+      </tr>
+      <tr bgcolor="#ffffff">
+        <td height="23" align="right">第四部分</td>
+        <td><a href="#section4">急救措施</a></td>
+        <td align="right">第十二部分</td>
+        <td><a href="#section12">生态学信息</a></td>
+      </tr>
+      <tr bgcolor="#ffffff">
+        <td height="21" align="right">第五部分</td>
+        <td><a href="#section5">消防措施</a></td>
+        <td align="right">第十三部分</td>
+        <td><a href="#section13">废弃处置</a></td>
+      </tr>
+      <tr bgcolor="#ffffff">
+        <td height="20" align="right">第六部分</td>
+        <td><a href="#section6">泄漏应急处理</a></td>
+        <td align="right">第十四部分</td>
+        <td><a href="#section14">运输信息</a></td>
+      </tr>
+      <tr bgcolor="#ffffff">
+        <td height="23" align="right">第七部分</td>
+        <td><a href="#section7">操作处置与储存</a></td>
+        <td align="right">第十五部分</td>
+        <td><a href="#section15">法规信息</a></td>
+      </tr>
+      <tr bgcolor="#ffffff">
+        <td height="16" align="right">第八部分</td>
+        <td><a href="#section8">接触控制和个体防护</a></td>
+        <td align="right">第十六部分</td>
+        <td><a href="#section16">其他信息</a></td>
+      </tr>
+    </tbody>
+  </table>
+  <table align="center" border="1" cellspacing="0" rules="all" style="border-collapse:collapse;" width="99%" class="chemicals">
+    <tbody>
+      <tr>
+        <td colspan="4" bgcolor="#FFF7D6"><div align="center"><a name="section1"></a>第一部分：化学品及企业标识</div></td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">中文名称：</td>
+        <td class="msdsRight30">氯三氟甲烷</td>
+        <td class="msdsLeft15">中文别名：</td>
+        <td class="msdsRight30">一氯三氟甲烷</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">英文名称：</td>
+        <td class="msdsRight30">chlorotrifluoromethane</td>
+        <td class="msdsLeft15">英文别名：</td>
+        <td class="msdsRight30">monochlorotrifluoromethane</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">CAS号：</td>
+        <td class="msdsRight30"><a href="http://www.ichemistry.cn/chemistry/75-72-9.htm" target="_blank">75-72-9</a></td>
+        <td class="msdsLeft15">技术说明书编码：</td>
+        <td class="msdsRight30">MSDS#58</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">供应商名称：</td>
+        <td class="msdsRight30">&nbsp;</td>
+        <td class="msdsLeft15">供应商地址：</td>
+        <td class="msdsRight30">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">供应商电话：</td>
+        <td class="msdsRight30">&nbsp;</td>
+        <td class="msdsLeft15">供应商应急电话：</td>
+        <td class="msdsRight30">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">供应商传真：</td>
+        <td class="msdsRight30">&nbsp;</td>
+        <td class="msdsLeft15">供应商Email：</td>
+        <td class="msdsRight30">&nbsp;</td>
+      </tr>
+    </tbody>
+  </table>
+  <table align="center" border="1" cellspacing="0" rules="all" style="border-collapse:collapse;" width="99%" class="chemicals">
+    <tbody>
+      <tr>
+        <td colspan="2" bgcolor="#FFF7D6"><div align="center"><a name="section2"></a>第二部分：危险性概述</div></td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">危险性类别：</td>
+        <td class="msdsRight75">第2.2类  不燃气体</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">侵入途径：</td>
+        <td class="msdsRight75">吸入</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">健康危害：</td>
+        <td class="msdsRight75">有窒息作用。接触后可有头痛、恶心和眩晕。</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">环境危害：</td>
+        <td class="msdsRight75">无资料</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">燃爆危险：</td>
+        <td class="msdsRight75">本品不燃，具窒息性。</td>
+      </tr>
+    </tbody>
+  </table>
+  <table align="center" border="1" cellspacing="0" rules="all" style="border-collapse:collapse;" width="99%" class="chemicals">
+    <tbody>
+      <tr>
+        <td colspan="2" bgcolor="#FFF7D6"><div align="center"><a name="section3"></a>第三部分：成分/组成信息</div></td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">有害物成分：</td>
+        <td class="msdsRight75">氯三氟甲烷</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">含量：</td>
+        <td class="msdsRight75">≥99.5％</td>
+      </tr>
+    </tbody>
+  </table>
+  <table align="center" border="1" cellspacing="0" rules="all" style="border-collapse:collapse;" width="99%" class="chemicals">
+    <tbody>
+      <tr>
+        <td colspan="2" bgcolor="#FFF7D6"><div align="center"><a name="section4"></a>第四部分：急救措施</div></td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">皮肤接触：</td>
+        <td class="msdsRight75">无资料</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">眼睛接触：</td>
+        <td class="msdsRight75">无资料</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">吸入：</td>
+        <td class="msdsRight75">迅速脱离现场至空气新鲜处。保持呼吸道通畅。如呼吸困难，给输氧。如呼吸停止，立即进行人工呼吸。就医。</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">食入：</td>
+        <td class="msdsRight75">无资料</td>
+      </tr>
+    </tbody>
+  </table>
+  <table align="center" border="1" cellspacing="0" rules="all" style="border-collapse:collapse;" width="99%" class="chemicals">
+    <tbody>
+      <tr>
+        <td colspan="2" bgcolor="#FFF7D6"><div align="center"><a name="section5"></a>第五部分：消防措施</div></td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">危险特性：</td>
+        <td class="msdsRight75">不燃。遇火或赤热金属可发生热分解，释放出高毒的烟雾。若遇高热，容器内压增大，有开裂和爆炸的危险。</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">建规火险分级：</td>
+        <td class="msdsRight75">无资料</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">有害燃烧产物：</td>
+        <td class="msdsRight75">氯化氢、氟化氢。</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">灭火方法：</td>
+        <td class="msdsRight75">本品不燃。切断气源。喷水冷却容器，可能的话将容器从火场移至空旷处。灭火剂：雾状水。</td>
+      </tr>
+    </tbody>
+  </table>
+  <table align="center" border="1" cellspacing="0" rules="all" style="border-collapse:collapse;" width="99%" class="chemicals">
+    <tbody>
+      <tr>
+        <td colspan="2" bgcolor="#FFF7D6"><div align="center"><a name="section6"></a>第六部分：泄漏应急处理</div></td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">应急处理：</td>
+        <td class="msdsRight75">迅速撤离泄漏污染区人员至上风处，并进行隔离，严格限制出入。建议应急处理人员戴自给正压式呼吸器，穿一般作业工作服。尽可能切断泄漏源。合理通风，加速扩散。将漏气的容器移至空旷处，注意通风。漏气容器要妥善处理，修复、检验后再用。</td>
+      </tr>
+    </tbody>
+  </table>
+  <table align="center" border="1" cellspacing="0" rules="all" style="border-collapse:collapse;" width="99%" class="chemicals">
+    <tbody>
+      <tr>
+        <td colspan="2" bgcolor="#FFF7D6"><div align="center"><a name="section7"></a>第七部分：操作处置与储存</div></td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">操作注意事项：</td>
+        <td class="msdsRight75">密闭操作，全面通风。操作人员必须经过专门培训，严格遵守操作规程。防止气体泄漏到工作场所空气中。避免与氧化剂接触。搬运时戴好钢瓶安全帽和防震橡皮圈，防止钢瓶碰撞、损坏。配备泄漏应急处理设备。</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">储存注意事项：</td>
+        <td class="msdsRight75">储存于阴凉、通风的库房。远离火种、热源。应与氧化剂分开存放，切忌混储。储区应备有泄漏应急处理设备。</td>
+      </tr>
+    </tbody>
+  </table>
+  <table align="center" border="1" cellspacing="0" rules="all" style="border-collapse:collapse;" width="99%" class="chemicals">
+    <tbody>
+      <tr>
+        <td colspan="2" bgcolor="#FFF7D6"><div align="center"><a name="section8"></a>第八部分：接触控制/个体防护</div></td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">中国MAC(mg/m3)：</td>
+        <td class="msdsRight75">未制定标准</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">前苏联MAC(mg/m3)：</td>
+        <td class="msdsRight75">未制定标准</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">TLVTN：</td>
+        <td class="msdsRight75">未制定标准</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">TLVWN：</td>
+        <td class="msdsRight75">未制定标准</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">接触限值：</td>
+        <td class="msdsRight75">美国TLV-TWA：未制订标准美国TLV-STEL：未制订标准</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">监测方法：</td>
+        <td class="msdsRight75">无资料</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">工程控制：</td>
+        <td class="msdsRight75">生产过程密闭，全面通风。</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">呼吸系统防护：</td>
+        <td class="msdsRight75">一般不需要特殊防护，高浓度接触时可佩戴自吸过滤式防毒面具（半面罩）。</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">眼睛防护：</td>
+        <td class="msdsRight75">一般不需特殊防护。</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">身体防护：</td>
+        <td class="msdsRight75">穿一般作业工作服。</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">手防护：</td>
+        <td class="msdsRight75">戴一般作业防护手套。</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">其他防护：</td>
+        <td class="msdsRight75">避免高浓度吸入。</td>
+      </tr>
+    </tbody>
+  </table>
+  <table align="center" border="1" cellspacing="0" rules="all" style="border-collapse:collapse;" width="99%" class="chemicals">
+    <tbody>
+      <tr>
+        <td colspan="4" bgcolor="#FFF7D6"><div align="center"><a name="section9"></a>第九部分：理化特性</div></td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">pH：</td>
+        <td class="msdsRight30">无资料</td>
+        <td class="msdsLeft15">熔点(℃)：</td>
+        <td class="msdsRight30">-181</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">沸点(℃)：</td>
+        <td class="msdsRight30">-81.4</td>
+        <td class="msdsLeft15">分子式：</td>
+        <td class="msdsRight30">CClF3</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">主要成分：</td>
+        <td class="msdsRight30">含量:一级≥99.5％; 二级≥99.5％。</td>
+        <td class="msdsLeft15">饱和蒸气压(kPa)：</td>
+        <td class="msdsRight30">2030(12℃)</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">辛醇/水分配系数的对数值：</td>
+        <td class="msdsRight30">无资料</td>
+        <td class="msdsLeft15">临界温度(℃)：</td>
+        <td class="msdsRight30">28.9</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">闪点(℃)：</td>
+        <td class="msdsRight30">无意义</td>
+        <td class="msdsLeft15">引燃温度(℃)：</td>
+        <td class="msdsRight30">无意义</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">自燃温度：</td>
+        <td class="msdsRight30">引燃温度(℃)：无意义</td>
+        <td class="msdsLeft15">燃烧性：</td>
+        <td class="msdsRight30">不燃</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">溶解性：</td>
+        <td class="msdsRight30">无资料</td>
+        <td class="msdsLeft15">相对密度(水=1)：</td>
+        <td class="msdsRight30">1.70</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">相对蒸气密度(空气=1)：</td>
+        <td class="msdsRight30">3.6</td>
+        <td class="msdsLeft15">分子量：</td>
+        <td class="msdsRight30">104.5</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">燃烧热(kJ/mol)：</td>
+        <td class="msdsRight30">无意义</td>
+        <td class="msdsLeft15">临界压力(MPa)：</td>
+        <td class="msdsRight30">4</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">爆炸上限%(V/V)：</td>
+        <td class="msdsRight30">无意义</td>
+        <td class="msdsLeft15">爆炸下限%(V/V)：</td>
+        <td class="msdsRight30">无意义</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">外观与性状：</td>
+        <td class="msdsRight75" colspan="3">无色无臭气体。</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">主要用途：</td>
+        <td class="msdsRight75" colspan="3">是一种超低温的致冷剂, 也用作泡沫塑料发泡剂、半导体装置、等离子刻蚀剂。</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">其它理化性质：</td>
+        <td class="msdsRight75" colspan="3">无资料</td>
+      </tr>
+    </tbody>
+  </table>
+  <table align="center" border="1" cellspacing="0" rules="all" style="border-collapse:collapse;" width="99%" class="chemicals">
+    <tbody>
+      <tr>
+        <td colspan="2" bgcolor="#FFF7D6"><div align="center"><a name="section10"></a>第十部分：稳定性和反应活性</div></td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">稳定性：</td>
+        <td class="msdsRight75">稳定</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">禁配物：</td>
+        <td class="msdsRight75">强氧化剂。</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">避免接触的条件：</td>
+        <td class="msdsRight75">无资料</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">聚合危害：</td>
+        <td class="msdsRight75">不能出现</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">分解产物：</td>
+        <td class="msdsRight75">无资料</td>
+      </tr>
+    </tbody>
+  </table>
+  <table align="center" border="1" cellspacing="0" rules="all" style="border-collapse:collapse;" width="99%" class="chemicals">
+    <tbody>
+      <tr>
+        <td colspan="2" bgcolor="#FFF7D6"><div align="center"><a name="section11"></a>第十一部分：毒理学信息</div></td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">急性毒性：</td>
+        <td class="msdsRight75">属低毒类</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">亚急性和慢性毒性：</td>
+        <td class="msdsRight75">无资料</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">RTECS：</td>
+        <td class="msdsRight75">PA6410000</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">刺激性：</td>
+        <td class="msdsRight75">无资料</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">致敏性：</td>
+        <td class="msdsRight75">无资料</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">致突变性：</td>
+        <td class="msdsRight75">无资料</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">致畸性：</td>
+        <td class="msdsRight75">无资料</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">致癌性：</td>
+        <td class="msdsRight75">无资料</td>
+      </tr>
+    </tbody>
+  </table>
+  <table align="center" border="1" cellspacing="0" rules="all" style="border-collapse:collapse;" width="99%" class="chemicals">
+    <tbody>
+      <tr>
+        <td colspan="2" bgcolor="#FFF7D6"><div align="center"><a name="section12"></a>第十二部分：生态学资料</div></td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">生态毒理毒性：</td>
+        <td class="msdsRight75">无资料</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">生物降解性：</td>
+        <td class="msdsRight75">无资料</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">非生物降解性：</td>
+        <td class="msdsRight75">无资料</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">生物富集或生物积累性：</td>
+        <td class="msdsRight75">无资料</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">其它有害作用：</td>
+        <td class="msdsRight75">避免高浓度吸入。</td>
+      </tr>
+    </tbody>
+  </table>
+  <table align="center" border="1" cellspacing="0" rules="all" style="border-collapse:collapse;" width="99%" class="chemicals">
+    <tbody>
+      <tr>
+        <td colspan="2" bgcolor="#FFF7D6"><div align="center"><a name="section13"></a>第十三部分：废弃处置</div></td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">废弃物性质：</td>
+        <td class="msdsRight75">处置前应参阅国家和地方有关法规。建议用焚烧法处置。</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">废弃处置方法：</td>
+        <td class="msdsRight75">根据国家和地方有关法规的要求处置。或与厂商或制造商联系，确定处置方法。</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">废弃注意事项：</td>
+        <td class="msdsRight75">无资料</td>
+      </tr>
+    </tbody>
+  </table>
+  <table align="center" border="1" cellspacing="0" rules="all" style="border-collapse:collapse;" width="99%" class="chemicals">
+    <tbody>
+      <tr>
+        <td colspan="2" bgcolor="#FFF7D6"><div align="center"><a name="section14"></a>第十四部分：运输信息</div></td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">危险货物编号：</td>
+        <td class="msdsRight75">22040</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">UN编号：</td>
+        <td class="msdsRight75">1022</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">IMDG规则页码：</td>
+        <td class="msdsRight75">无资料</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">包装标志：</td>
+        <td class="msdsRight75">5</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">包装类别：</td>
+        <td class="msdsRight75">O53</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">包装方法：</td>
+        <td class="msdsRight75">钢质气瓶；安瓿瓶外普通木箱。</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">运输注意事项：</td>
+        <td class="msdsRight75">采用刚瓶运输时必须戴好钢瓶上的安全帽。钢瓶一般平放，并应将瓶口朝同一方向，不可交叉；高度不得超过车辆的防护栏板，并用三角木垫卡牢，防止滚动。严禁与氧化剂等混装混运。夏季应早晚运输，防止日光曝晒。铁路运输时要禁止溜放。</td>
+      </tr>
+    </tbody>
+  </table>
+  <table align="center" border="1" cellspacing="0" rules="all" style="border-collapse:collapse;" width="99%" class="chemicals">
+    <tbody>
+      <tr>
+        <td colspan="2" bgcolor="#FFF7D6"><div align="center"><a name="section15"></a>第十五部分：法规信息</div></td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">法规信息：</td>
+        <td class="msdsRight75">化学危险物品安全管理条例 (1987年2月17日国务院发布)，化学危险物品安全管理条例实施细则 (化劳发[1992]677号)，工作场所安全使用化学品规定 ([1996]劳部发423号)等法规，针对化学危险品的安全使用、生产、储存、运输、装卸等方面均作了相应规定；常用危险化学品的分类及标志 (GB 13690-92)将该物质划为第2.2 类不燃气体。</td>
+      </tr>
+    </tbody>
+  </table>
+  <table align="center" border="1" cellspacing="0" rules="all" style="border-collapse:collapse;" width="99%" class="chemicals">
+    <tbody>
+      <tr>
+        <td colspan="2" bgcolor="#FFF7D6"><div align="center"><a name="section16"></a>第十六部分：其他信息</div></td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">参考文献：</td>
+        <td class="msdsRight75"><a href="http://www.ichemistry.cn/chemistry/75-72-9.htm" target="_blank">http://www.ichemistry.cn/chemistry/75-72-9.htm</a><br></td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">修改说明：</td>
+        <td class="msdsRight75">无资料</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">其他信息：</td>
+        <td class="msdsRight75">无资料</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">填表部门：</td>
+        <td class="msdsRight75">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="msdsLeft">审核部门：</td>
+        <td class="msdsRight75">&nbsp;</td>
+      </tr>
+    </tbody>
+  </table>
+ 
+  </table>
+</div>
+
+<div id="_uuid_im_3029_" style="display: none;"></div>
+<script language="javascript" src="/js/ad_weixianpin_baidu.js" type="text/javascript"></script><script type="text/javascript" src="http://cpro.baidu.com/cpro/ui/f.js"></script>
+<div id="BAIDU_SSP__wrapper_u1301481_0"></div>
+<div id="hm_t_undefined" class="hm-t-container">
+  <div class="hm-t-go-top" style="display: block;"></div>
+</div>
+</body>
+</html>

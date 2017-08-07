@@ -1,0 +1,118 @@
+/* CSS Document */
+body {
+	font-family:Helvetica, sans-serif;
+	font-size: 14px;
+	padding: 0;
+	margin: 0;
+	color: #333;
+}
+.dl_logo{
+	padding: 20px 0;
+}
+.dl_logo img{width: 34%;}
+a:link {
+	color: #666;
+	text-decoration: none;	
+}
+a:visited {
+	color: #666;
+	text-decoration: none;	
+}
+a:hover {
+	color: #C00;
+	text-decoration: none;	
+}
+ul,ol,li {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;	
+}
+dl,dt,dd {
+	margin: 0;
+	padding: 0;
+}
+img {
+	border: 0;	
+}
+br {
+	font-size: 0;
+	line-height: 10px;
+	height: 10px;
+}
+
+
+
+/* 登录主体 */
+.main {
+	height: 970px;
+	background: url(../image/bg.jpg);
+}
+.main .denglu {
+	width: 1280px;
+	margin: 0 auto;
+	position: relative;
+}
+.main .denglu .title-name {
+	width: 100%;
+	text-align: center;
+	font-size: 24px;
+	color: #f6f6f6;
+	
+}
+.main .denglu .dlk {
+	width: 354px;
+	height: 328px;
+	background: url(../image/tp03_20140320.png) no-repeat;
+	position: absolute;
+	left: 50%;
+	margin-left: -177px;
+	top: 160px;
+	color: #fff;
+}
+.main .denglu .dlk a.mm {
+	color: #000;
+	font-size: 12px;
+}
+.main .denglu .dlk a.mm:hover {
+	color: #C00;
+}
+.main .denglu .dlk a.zc {
+	color: #F60;
+}
+.main .denglu .dlk a.zc:hover {
+	color: #C00;
+}
+
+
+/* button,input */
+.dlinput {
+	margin: 0;
+	padding: 0;
+	border: 1px solid #ccc;
+	width: 222px;
+	height: 34px;
+	line-height: 34px;
+	text-indent: 2px;
+	font-size: 14px;
+	
+}
+.loginbtn {
+	-moz-border-bottom-colors: none;
+	-moz-border-left-colors: none;
+	-moz-border-right-colors: none;
+	-moz-border-top-colors: none;
+	background: url(../image/tp06_20140320.png) no-repeat;
+	border: none 0;
+	width: 224px;
+	height: 40px;
+	line-height: 40px;
+	cursor: pointer;
+	font-family: "微软雅黑";
+	font-size: 16px;
+	color: #FFF;
+	padding: 0;
+	margin: 0;
+}
+.loginbtn:active {
+	color: #ccc;
+}

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<script type="text/javascript" src="layer/jquery.js"></script>
+
+		<style>
+		html {
+		color:#000;
+		background:#FFF
+	}
+		body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td {
+		margin:0;
+		padding:0
+		}
+		.content_box{
+			width: 700px;
+			height: 320px;
+			margin: auto;
+		}
+		.content{
+			width: 100%;
+			overflow: hidden;
+			margin-top: 30px;
+		}
+		.content .first{
+			float: left;
+		}
+		.content .second{
+			float:right;
+		}
+		.content input{float: right;width: 200px;height: 24px;padding: 0 5px;border:1px solid #a8c4e9;}
+		.content .first div,.second div{padding: 5px 10px;}
+		.content span{font-size: 14px;font-family: "微软雅黑";}
+		.ANNIU{
+			width: 100%;
+			margin-top:50px;
+		}
+		.yes, .no{
+			float: left;
+		}
+		.ANNIU button{width: 350px;height: 30px;}
+		.yes button{background: #e0ecff;border:1px solid #95b8e7;}
+		.no button{background: #e0ecff;border:1px solid #95b8e7;padding: 0 -1px;}
+		</style>
+	</head>
+	<body>
+		<div class="content_box">
+			<div class="content">
+				<div class="first">
+					<div><span>企业编号：</span><input type="text"></div>
+					<div><span>企业地址：</span><input type="text"></div>
+					<div><span>紧急联系人：</span><input type="text"></div>
+					<div><span>企业级别：</span><input type="text"></div>
+					<div><span>电子邮件：</span><input type="text"></div>
+					<div><span>备注：</span><input type="text"></div>
+				</div>
+				<div class="second">
+					<div><span>企业名称：</span><input type="text"></div>
+					<div><span>联系电话：</span><input type="text"></div>
+					<div><span>紧急联系电话：</span><input type="text"></div>
+					<div><span>上级企业：</span><input type="text"></div>
+				</div>
+				
+			</div>
+			<div class="ANNIU">
+					<div class="yes"><button>提交</button></div>
+					<div class="no"><button>重置</button></div>
+			</div>
+		</div>
+	</body>
+</html>

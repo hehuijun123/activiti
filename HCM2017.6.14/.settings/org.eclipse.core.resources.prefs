@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//WebContent/Login.jsp=UTF-8
+encoding//WebContent/Order.jsp=UTF-8
+encoding//WebContent/OrderDetail.jsp=UTF-8
+encoding//WebContent/css/Login_style.css=UTF-8
+encoding//WebContent/css/new_file.css=UTF-8
+encoding//WebContent/main.jsp=UTF-8
+encoding//WebContent/tree.jsp=UTF-8
+encoding//src/com/ssh/dao/BaseDao.java=UTF-8
+encoding//src/com/ssh/entity/Storage.java=UTF-8
+encoding//src/com/ssh/webservice/DataServiceImpl.java=UTF-8

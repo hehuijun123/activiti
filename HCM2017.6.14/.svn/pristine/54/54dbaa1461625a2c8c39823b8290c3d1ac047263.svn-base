@@ -1,0 +1,211 @@
+package com.ssh.action;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+import org.apache.commons.logging.Log;
+import org.apache.commons.logging.LogFactory;
+import org.springframework.context.annotation.Scope;
+import org.springframework.stereotype.Controller;
+
+import com.opensymphony.xwork2.ActionContext;
+import com.ssh.entity.Company;
+import com.ssh.entity.Purpose;
+import com.ssh.entity.Waste;
+import com.ssh.util.ChooseRole;
+@Controller
+@Scope
+public class WasteAction extends BaseAction<Waste> {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1531851319630619325L;
+	private static final Log log = LogFactory.getLog(CompanyAction.class);
+	public String selectWaste(){
+		String usernameS = (String) ActionContext.getContext().getSession().get("loginName");
+		String work = (String) ActionContext.getContext().getSession().get("work");
+		log.error(usernameS+"-查看废弃物处理");
+		try {
+			List<Waste> list = wasteService.search(page, rows,work);
+			//System.out.println(list.get(5).getCaddress());
+			response(list,wasteService.selectall(work));
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		return null;
+	}
+	/**
+	 * 查看所有的waste2017-7-3
+	 * @return
+	 */
+	public String searchAllWastejt(){
+		try {
+			List<Waste> list = wasteService.searchAllWastejt();
+			response(list);
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		return null;
+	}
+	/**
+	 * 根废弃物名称和Zs查询waste2017-7-4
+	 * @return
+	 */
+	public String selectByZsAndWname(){
+		String Wname1 = getRequest().getParameter("Wname");
+		try {
+			List<Waste> list = wasteService.selectByZsAndWname(Wname1);
+			response(list);
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		return null;
+	}
+	/**
+	 * 根废弃物名称和Sc查询waste2017-7-4
+	 * @return
+	 */
+	public String selectByScAndWname(){
+		String Wname1 = getRequest().getParameter("Wname");
+		String Cname1 = getRequest().getParameter("Cname1");
+		try {
+			String pid=wasteService.selectPidByCname(Cname1);
+			List<Waste> list = wasteService.selectByScAndWname(Wname1,pid);
+			response(list);
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		return null;
+	}
+	
+	
+	public String searchPurchase(){
+		System.out.println("条件查询----------------------");
+		String work = (String) ActionContext.getContext().getSession().get("work");
+
+		try {
+			String psdate = getRequest().getParameter("psdate");
+			String pedate = getRequest().getParameter("pedate");
+			System.out.println("开始时间："+psdate+"结束时间"+pedate);
+			List<Waste> list = wasteService.searchPc(page, rows,searchCon,searchType,ChooseRole.chooseWorkAndKey(work));
+			List<Object> ListNew=new ArrayList<>();
+			//for(int i=0;i<list.size();i++){
+				ListNew.add(list);
+			//}
+			response(ListNew,wasteService.selectallPc(searchCon,searchType,ChooseRole.chooseWorkAndKey(work)));
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		return null;		
+	}
+	public  String addWaste(){	
+		return null;
+	}
+	public String updateWaste(){
+		System.out.println("更新用户");
+		String Cid = getRequest().getParameter("Cid");
+		String cname = getRequest().getParameter("cname");
+		String caddress = getRequest().getParameter("caddress");
+		String ctel = getRequest().getParameter("ctel");
+		String emergencyPerson = getRequest().getParameter("emergencyPerson");
+		String emergencyCalls = getRequest().getParameter("emergencyCalls");
+		String emil = getRequest().getParameter("emil");
+		Long cid = Long.parseLong(Cid);
+		return null;
+	}
+	//保存
+	public String saveWaste(){
+		String usernameS = (String) ActionContext.getContext().getSession().get("loginName");
+		String work = (String) ActionContext.getContext().getSession().get("work");
+		String Cid = getRequest().getParameter("id");
+		System.out.println("Cid:   "+Cid);
+		Map<String,String> map = ChooseRole.chooseRole(work);
+		if(Cid!=null&&!"".equals(Cid)){
+			log.error(usernameS+"-更新废弃物");
+			String wname = getRequest().getParameter("wname");
+			String wdate = getRequest().getParameter("wdate");
+			String wnum = getRequest().getParameter("wnum");
+			String wcompany = getRequest().getParameter("wcompany");
+			String wperson = getRequest().getParameter("wperson");
+			Long cid = Long.parseLong(Cid);
+			Waste waste = wasteService.select(cid);
+			if(map.get("jt")!=null){
+				waste.setJt(map.get("jt"));
+			}
+			if(map.get("zs")!=null){
+				waste.setZs(map.get("zs"));
+			}
+			if(map.get("sc")!=null){
+				waste.setSc(map.get("sc"));
+			}
+			waste.setWname(wname);
+			waste.setWdate(wdate);
+			waste.setWnum(wnum);
+			waste.setWcompany(wcompany);
+			waste.setWwork(work);
+			waste.setWperson(wperson);
+			wasteService.update(waste);
+		}else{
+			log.error(usernameS+"-添加废弃物");
+			String wname = getRequest().getParameter("wname");
+			String wdate = getRequest().getParameter("wdate");
+			String wnum = getRequest().getParameter("wnum");
+			String wcompany = getRequest().getParameter("wcompany");
+			String wperson = getRequest().getParameter("wperson");
+			Waste waste = new Waste();
+			if(map.get("jt")!=null){
+				waste.setJt(map.get("jt"));
+			}
+			if(map.get("zs")!=null){
+				waste.setZs(map.get("zs"));
+			}
+			if(map.get("sc")!=null){
+				waste.setSc(map.get("sc"));
+			}
+			waste.setWname(wname);
+			waste.setWdate(wdate);
+			waste.setWnum(wnum);
+			waste.setWwork(work);
+			waste.setWcompany(wcompany);
+			waste.setWperson(wperson);
+			waste.setWr(usernameS);
+			wasteService.save(waste);	
+		}
+		
+		return null;
+	}
+	//删除
+	public String deleteWaste(){
+		String usernameS = (String) ActionContext.getContext().getSession().get("loginName");
+		log.error(usernameS+"-删除废弃物");
+
+		String Cid = getRequest().getParameter("id");
+		System.out.println("Cid:   "+Cid);
+		Long cid = Long.parseLong(Cid);
+		wasteService.delete(cid);
+		Map<String, String> map = new HashMap<String, String>();
+		map.put("success", "ok");
+		response(map);
+		return null;
+	}
+	
+	public String getSearchCon() {
+		return searchCon;
+	}
+	public void setSearchCon(String searchCon) {
+		this.searchCon = searchCon;
+	}
+	public String getSearchType() {
+		return searchType;
+	}
+	public void setSearchType(String searchType) {
+		this.searchType = searchType;
+	}
+	private String searchCon;
+	private String searchType;
+}

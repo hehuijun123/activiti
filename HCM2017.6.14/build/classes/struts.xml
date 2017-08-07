@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+	"-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+	"http://struts.apache.org/dtds/struts-2.3.dtd">
+
+<struts>
+    <!-- 配置为开发模式，一旦文件改动，不需要重启，会立即生效 -->
+    <constant name="struts.devMode" value="true" />
+    <!-- 把扩展名设置为action -->
+    <constant name="struts.action.extension" value="action" />
+    <!-- 把主题配置为simple -->
+    <constant name="struts.ui.theme" value="simple" />
+    <constant name="struts.i18n.encoding" value="utf-8"></constant>
+    <constant name="struts.multipart.maxSize" value="1000000000" />
+    
+<!--     <constant name="struts,multipart.maxSize" value="10485760"></constant>
+ -->       
+     <package name="action" namespace="/" extends="struts-default,json-default">
+   		<action name="main_*" class="com.ssh.test.ActionTest" method="{1}">
+	  		
+	  		<result name="index">/Login.jsp</result>
+	  		
+	    	<result type="json">
+	   				<param name="root">result</param>
+	   		</result>   		
+    	</action>
+    	
+    	<action name="company_*" class="com.ssh.action.CompanyAction" method="{1}">
+	    	<result type="json">
+	   				<param name="root">result</param>
+	   		</result>   		
+    	</action>
+    	
+    	<action name="HC_*" class="com.ssh.action.HazrdousChemicalsAction" method="{1}">
+	    	<result type="json">
+	   				<param name="root">result</param>
+	   		</result>   		
+    	</action>
+    	
+    	<action name="Purchase_*" class="com.ssh.action.PurchaseAction" method="{1}">
+	    	<result type="json">
+	   				<param name="root">result</param>
+	   		</result>   		
+    	</action>
+    	
+    	<action name="Purpose_*" class="com.ssh.action.PurposeAction" method="{1}">
+	    	<result type="json">
+	   				<param name="root">result</param>
+	   		</result>   		
+    	</action>
+    	
+    	<action name="Transport_*" class="com.ssh.action.TransportAction" method="{1}">
+	    	<result type="json">
+	   				<param name="root">result</param>
+	   		</result>   		
+    	</action>
+    	
+    	<action name="Waste_*" class="com.ssh.action.WasteAction" method="{1}">
+	    	<result type="json">
+	   				<param name="root">result</param>
+	   		</result>   		
+    	</action>
+    	
+    	<action name="Position_*" class="com.ssh.action.PositionAction" method="{1}">
+	    	<result type="json">
+	   				<param name="root">result</param>
+	   		</result>   		
+    	</action>
+    	
+    	<action name="Excel_*" class="com.ssh.action.ExcelAction" method="{1}">
+	    	<result type="json">
+	   				<param name="root">result</param>
+	   		</result>   		
+    	</action>
+    	
+    	<action name="Emergency_*" class="com.ssh.action.EmergencyAction" method="{1}">
+	    	<!-- 配置名字为fileUpload的拦截器 -->
+      <interceptor-ref name="fileUpload">
+        <!-- 配置允许上传文件的大小(单位字节) -->
+        <param name="maximumSize">1000000000</param>
+      </interceptor-ref>
+      <interceptor-ref name="defaultStack"></interceptor-ref>
+	    	<result type="json">
+	   				<param name="root">result</param>
+	   		</result>   		
+    	</action>
+    	
+    	<action name="Storage_*" class="com.ssh.action.StorageAction" method="{1}">
+	    	<result type="json">
+	   				<param name="root">result</param>
+	   		</result>   		
+    	</action>
+    	
+    	<action name="Tree_*" class="com.ssh.action.TreeAction" method="{1}">
+	    	<result type="json">
+	   				<param name="root">result</param>
+	   		</result>   		
+    	</action>
+    	
+    	<action name="User_*" class="com.ssh.action.UserAction" method="{1}">
+	    	<result type="json">
+	   				<param name="root">result</param>
+	   		</result>   		
+    	</action>
+    	
+    </package>     
+</struts>

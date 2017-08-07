@@ -1,0 +1,10 @@
+jdbcUrl        = jdbc:sqlserver://localhost;databaseName=HCM
+driverClass    = com.microsoft.sqlserver.jdbc.SQLServerDriver
+user        = sa
+password    =1
+#password=cJ3fsxzfyj
+
+jdbc.hibernate.dialect=org.hibernate.dialect.SQLServerDialect
+jdbc.hibernate.show_sql=true
+jdbc.hibernate.format_sql=false
+ hibernate.hbm2ddl.auto = update

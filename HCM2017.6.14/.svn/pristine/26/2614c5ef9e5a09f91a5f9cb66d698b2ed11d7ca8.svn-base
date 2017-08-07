@@ -1,0 +1,230 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<link rel="stylesheet" href="aa.css">
+<link rel="stylesheet" href="/images/jquery-ui-min.css">
+<script language="javascript">var _hmt = _hmt || []; </script>
+<style type="text/css">
+<!--
+#BodyBox tr td {
+	padding: 3px 5px;
+	line-height: 24px;
+	font-size: 14px;
+}
+.msdsLeft {
+	width: 25%;
+	text-align: right;
+	vertical-align: middle;
+	color: #4166e0;
+}
+.msdsRight {
+	width: 75%;
+	text-align: left;
+	vertical-align: middle;
+}
+.msdsLeft15 {
+	width: 15%;
+	text-align: right;
+	vertical-align: middle;
+	color: #4166e0;
+}
+.msdsRight30 {
+	width: 30%;
+	text-align: left;
+	vertical-align: middle;
+}
+-->
+</style>
+</head>
+
+<body>
+
+<div id="BodyBox" class="Border1px">
+<table align="center" border="1" cellspacing="0" rules="all" style="border-collapse:collapse;" width="99%" class="chemicals">
+  <tbody>
+<tr bgcolor="#ffffff"><td colspan="4" align="center" bgcolor="#FFF7D6">磺胺酸</td></tr>
+<tr bgcolor="#ffffff"><td align="right">第一部分</td><td width="154"><a href="#section1">化学品及企业标识</a></td>
+    <td align="right">第九部分</td><td width="152"><a href="#section9">理化特性</a></td></tr>
+<tr bgcolor="#ffffff"><td height="20" align="right">第二部分</td><td><a href="#section2">危险性概述</a></td>
+    <td align="right">第十部分</td><td><a href="#section10">稳定性和反应活性</a></td></tr>
+<tr bgcolor="#ffffff"><td height="23" align="right">第三部分</td><td><a href="#section3">成分/组成信息</a></td>
+    <td align="right">第十一部分</td><td><a href="#section11">毒理学信息</a></td></tr>
+<tr bgcolor="#ffffff"><td height="23" align="right">第四部分</td><td><a href="#section4">急救措施</a></td>
+    <td align="right">第十二部分</td><td><a href="#section12">生态学信息</a></td></tr>
+<tr bgcolor="#ffffff"><td height="21" align="right">第五部分</td><td><a href="#section5">消防措施</a></td>
+    <td align="right">第十三部分</td><td><a href="#section13">废弃处置</a></td></tr>
+<tr bgcolor="#ffffff"><td height="20" align="right">第六部分</td><td><a href="#section6">泄漏应急处理</a></td>
+    <td align="right">第十四部分</td><td><a href="#section14">运输信息</a></td></tr>
+<tr bgcolor="#ffffff"><td height="23" align="right">第七部分</td><td><a href="#section7">操作处置与储存</a></td>
+    <td align="right">第十五部分</td><td><a href="#section15">法规信息</a></td></tr>
+<tr bgcolor="#ffffff"><td height="16" align="right">第八部分</td><td><a href="#section8">接触控制和个体防护</a></td>
+    <td align="right">第十六部分</td><td><a href="#section16">其他信息</a></td></tr></tbody></table>
+
+<table align="center" border="1" cellspacing="0" rules="all" style="border-collapse:collapse;" width="99%" class="chemicals">
+  <tbody><tr><td colspan="4" bgcolor="#FFF7D6"><div align="center"><a name="section1"></a>第一部分：化学品及企业标识</div></td></tr>
+  <tr><td class="msdsLeft">中文名称：</td><td class="msdsRight30">磺胺酸</td><td class="msdsLeft15">中文别名：</td><td class="msdsRight30">对氨基苯磺酸</td></tr>
+  <tr><td class="msdsLeft">英文名称：</td><td class="msdsRight30">p-Aminobenzene sulfonic acid</td><td class="msdsLeft15">英文别名：</td><td class="msdsRight30">无资料</td></tr>
+  <tr><td class="msdsLeft">CAS号：</td><td class="msdsRight30"><a href="http://www.ichemistry.cn/chemistry/121-57-3.htm" target="_blank">121-57-3</a></td><td class="msdsLeft15">技术说明书编码：</td><td class="msdsRight30">MSDS#1949</td></tr>	
+  <tr><td class="msdsLeft">供应商名称：</td><td class="msdsRight30">&nbsp;</td><td class="msdsLeft15">供应商地址：</td><td class="msdsRight30">&nbsp;</td></tr>		
+  <tr><td class="msdsLeft">供应商电话：</td><td class="msdsRight30">&nbsp;</td><td class="msdsLeft15">供应商应急电话：</td><td class="msdsRight30">&nbsp;</td></tr>	
+  <tr><td class="msdsLeft">供应商传真：</td><td class="msdsRight30">&nbsp;</td><td class="msdsLeft15">供应商Email：</td><td class="msdsRight30">&nbsp;</td></tr>	
+</tbody></table>
+
+<table align="center" border="1" cellspacing="0" rules="all" style="border-collapse:collapse;" width="99%" class="chemicals">
+  <tbody><tr><td colspan="2" bgcolor="#FFF7D6"><div align="center"><a name="section2"></a>第二部分：危险性概述</div></td></tr>
+ <tr><td class="msdsLeft">危险性类别：</td><td class="msdsRight75">无资料</td></tr>
+<tr><td class="msdsLeft">侵入途径：</td><td class="msdsRight75">吸入  食入</td></tr>
+<tr><td class="msdsLeft">健康危害：</td><td class="msdsRight75">摄入、吸入或经皮肤吸收后对身体有害。具刺激作用。</td></tr>
+<tr><td class="msdsLeft">环境危害：</td><td class="msdsRight75">无资料</td></tr>
+<tr><td class="msdsLeft">燃爆危险：</td><td class="msdsRight75">无资料</td></tr>
+
+  </tbody></table>
+		
+<table align="center" border="1" cellspacing="0" rules="all" style="border-collapse:collapse;" width="99%" class="chemicals">
+  <tbody><tr><td colspan="2" bgcolor="#FFF7D6"><div align="center"><a name="section3"></a>第三部分：成分/组成信息</div></td></tr>
+ <tr><td class="msdsLeft">有害物成分：</td><td class="msdsRight75">对氨基苯磺酸；磺胺酸          </td></tr>
+<tr><td class="msdsLeft">含量：</td><td class="msdsRight75">100%</td></tr>
+
+</tbody></table>
+
+<table align="center" border="1" cellspacing="0" rules="all" style="border-collapse:collapse;" width="99%" class="chemicals">
+  <tbody><tr><td colspan="2" bgcolor="#FFF7D6"><div align="center"><a name="section4"></a>第四部分：急救措施</div></td></tr>
+  <tr><td class="msdsLeft">皮肤接触：</td><td class="msdsRight75">脱去污染的衣着，用肥皂水及清水彻底冲洗。</td></tr>
+<tr><td class="msdsLeft">眼睛接触：</td><td class="msdsRight75">立即翻开上下眼睑，用流动清水冲洗15分钟。就医。</td></tr>
+<tr><td class="msdsLeft">吸入：</td><td class="msdsRight75">脱离现场至空气新鲜处。呼吸困难时给输氧。呼吸停止时，立即进行人工呼吸。就医。</td></tr>
+<tr><td class="msdsLeft">食入：</td><td class="msdsRight75">误服者漱口，给饮牛奶或蛋清，就医。</td></tr>
+
+</tbody></table>
+
+<table align="center" border="1" cellspacing="0" rules="all" style="border-collapse:collapse;" width="99%" class="chemicals">
+  <tbody><tr><td colspan="2" bgcolor="#FFF7D6"><div align="center"><a name="section5"></a>第五部分：消防措施</div></td></tr>
+ <tr><td class="msdsLeft">危险特性：</td><td class="msdsRight75">受热分解，放出氮、硫的氧化物等毒性气体。</td></tr>
+<tr><td class="msdsLeft">建规火险分级：</td><td class="msdsRight75">无资料</td></tr>
+<tr><td class="msdsLeft">有害燃烧产物：</td><td class="msdsRight75">一氧化碳、二氧化碳、硫化物、氧化氮。</td></tr>
+<tr><td class="msdsLeft">灭火方法：</td><td class="msdsRight75">雾状水、泡沫、二氧化碳、干粉、砂土。</td></tr>
+
+</tbody></table>
+
+<table align="center" border="1" cellspacing="0" rules="all" style="border-collapse:collapse;" width="99%" class="chemicals">
+  <tbody><tr><td colspan="2" bgcolor="#FFF7D6"><div align="center"><a name="section6"></a>第六部分：泄漏应急处理</div></td></tr>
+ <tr><td class="msdsLeft">应急处理：</td><td class="msdsRight75">切断火源。戴好防毒面具，穿一般消防防护服。勿使泄漏物与可燃物质(木材、纸、油等)接触，在确保安全情况下堵漏。避免扬尘，小心扫起，置于袋中转移至安全场所。如大量泄漏，收集回收或无害处理后废弃。</td></tr>
+
+</tbody></table>
+
+<table align="center" border="1" cellspacing="0" rules="all" style="border-collapse:collapse;" width="99%" class="chemicals">
+  <tbody><tr><td colspan="2" bgcolor="#FFF7D6"><div align="center"><a name="section7"></a>第七部分：操作处置与储存</div></td></tr>
+ <tr><td class="msdsLeft">操作注意事项：</td><td class="msdsRight75">无资料</td></tr>
+<tr><td class="msdsLeft">储存注意事项：</td><td class="msdsRight75">储存于阴凉、通风仓间内。远离火种、热源。保持容器密封。应与氧化剂、酸类、碱类分开存放。搬运时要轻装轻卸，防止包装及容器损坏。</td></tr>
+
+</tbody></table>
+
+<table align="center" border="1" cellspacing="0" rules="all" style="border-collapse:collapse;" width="99%" class="chemicals">
+  <tbody><tr><td colspan="2" bgcolor="#FFF7D6"><div align="center"><a name="section8"></a>第八部分：接触控制/个体防护</div></td></tr>
+ <tr><td class="msdsLeft">中国MAC(mg/m3)：</td><td class="msdsRight75">无资料</td></tr>
+<tr><td class="msdsLeft">前苏联MAC(mg/m3)：</td><td class="msdsRight75">无资料</td></tr>
+<tr><td class="msdsLeft">TLVTN：</td><td class="msdsRight75">无资料</td></tr>
+<tr><td class="msdsLeft">TLVWN：</td><td class="msdsRight75">无资料</td></tr>
+<tr><td class="msdsLeft">接触限值：</td><td class="msdsRight75">美国TLV-TWA：未制订标准美国TLV-STEL：未制订标准</td></tr>
+<tr><td class="msdsLeft">监测方法：</td><td class="msdsRight75">无资料</td></tr>
+<tr><td class="msdsLeft">工程控制：</td><td class="msdsRight75">密闭操作，局部排风。</td></tr>
+<tr><td class="msdsLeft">呼吸系统防护：</td><td class="msdsRight75">空气中浓度较高时，戴面具式呼吸器。紧急事态抢救或撤离时，建议佩戴自给式呼吸器。</td></tr>
+<tr><td class="msdsLeft">眼睛防护：</td><td class="msdsRight75">戴化学安全防护眼镜。</td></tr>
+<tr><td class="msdsLeft">身体防护：</td><td class="msdsRight75">穿防酸碱工作服。</td></tr>
+<tr><td class="msdsLeft">手防护：</td><td class="msdsRight75">戴防化学品手套。</td></tr>
+<tr><td class="msdsLeft">其他防护：</td><td class="msdsRight75">无资料</td></tr>
+
+</tbody></table>
+
+<table align="center" border="1" cellspacing="0" rules="all" style="border-collapse:collapse;" width="99%" class="chemicals">
+  <tbody><tr><td colspan="4" bgcolor="#FFF7D6"><div align="center"><a name="section9"></a>第九部分：理化特性</div></td></tr>
+ <tr><td class="msdsLeft">pH：</td><td class="msdsRight30">无资料</td><td class="msdsLeft15">熔点(℃)：</td><td class="msdsRight30">280</td></tr>
+<tr><td class="msdsLeft">沸点(℃)：</td><td class="msdsRight30">无资料</td><td class="msdsLeft15">分子式：</td><td class="msdsRight30">C6H7NO3S</td></tr>
+<tr><td class="msdsLeft">主要成分：</td><td class="msdsRight30">无资料</td><td class="msdsLeft15">饱和蒸气压(kPa)：</td><td class="msdsRight30">无资料</td></tr>
+<tr><td class="msdsLeft">辛醇/水分配系数的对数值：</td><td class="msdsRight30">无资料</td><td class="msdsLeft15">临界温度(℃)：</td><td class="msdsRight30">分解温度(℃)：288</td></tr>
+<tr><td class="msdsLeft">闪点(℃)：</td><td class="msdsRight30">无意义</td><td class="msdsLeft15">引燃温度(℃)：</td><td class="msdsRight30">无资料</td></tr>
+<tr><td class="msdsLeft">自燃温度：</td><td class="msdsRight30">引燃温度(℃)：无意义</td><td class="msdsLeft15">燃烧性：</td><td class="msdsRight30">不燃</td></tr>
+<tr><td class="msdsLeft">溶解性：</td><td class="msdsRight30">微溶于冷水，溶子热水，不溶于乙醇、乙醚、苯，溶于氢氧化钠水溶液。</td><td class="msdsLeft15">相对密度(水=1)：</td><td class="msdsRight30">1.5</td></tr>
+<tr><td class="msdsLeft">相对蒸气密度(空气=1)：</td><td class="msdsRight30">无资料</td><td class="msdsLeft15">分子量：</td><td class="msdsRight30">173.2</td></tr>
+<tr><td class="msdsLeft">燃烧热(kJ/mol)：</td><td class="msdsRight30">无资料</td><td class="msdsLeft15">临界压力(MPa)：</td><td class="msdsRight30">无资料</td></tr>
+<tr><td class="msdsLeft">爆炸上限%(V/V)：</td><td class="msdsRight30">无意义</td><td class="msdsLeft15">爆炸下限%(V/V)：</td><td class="msdsRight30">无意义</td></tr>
+<tr><td class="msdsLeft">外观与性状：</td><td class="msdsRight75" colspan="3">灰白色粉末。</td></tr>
+<tr><td class="msdsLeft">主要用途：</td><td class="msdsRight75" colspan="3">用于制造偶氮染料等，也用作防治麦锈病的农药。</td></tr>
+<tr><td class="msdsLeft">其它理化性质：</td><td class="msdsRight75" colspan="3">无资料</td></tr>
+
+</tbody></table>
+
+<table align="center" border="1" cellspacing="0" rules="all" style="border-collapse:collapse;" width="99%" class="chemicals">
+  <tbody><tr><td colspan="2" bgcolor="#FFF7D6"><div align="center"><a name="section10"></a>第十部分：稳定性和反应活性</div></td></tr>
+ <tr><td class="msdsLeft">稳定性：</td><td class="msdsRight75">稳定</td></tr>
+<tr><td class="msdsLeft">禁配物：</td><td class="msdsRight75">强氧化剂、强酸、强碱。</td></tr>
+<tr><td class="msdsLeft">避免接触的条件：</td><td class="msdsRight75">无资料</td></tr>
+<tr><td class="msdsLeft">聚合危害：</td><td class="msdsRight75">不能出现</td></tr>
+<tr><td class="msdsLeft">分解产物：</td><td class="msdsRight75">无资料</td></tr>
+
+</tbody></table>
+
+<table align="center" border="1" cellspacing="0" rules="all" style="border-collapse:collapse;" width="99%" class="chemicals">
+  <tbody><tr><td colspan="2" bgcolor="#FFF7D6"><div align="center"><a name="section11"></a>第十一部分：毒理学信息</div></td></tr>
+ <tr><td class="msdsLeft">急性毒性：</td><td class="msdsRight75">LD50：＞3200mg／kg(小鼠经口)LC50：</td></tr>
+<tr><td class="msdsLeft">亚急性和慢性毒性：</td><td class="msdsRight75">无资料</td></tr>
+<tr><td class="msdsLeft">RTECS：</td><td class="msdsRight75">无资料</td></tr>
+<tr><td class="msdsLeft">刺激性：</td><td class="msdsRight75">无资料</td></tr>
+<tr><td class="msdsLeft">致敏性：</td><td class="msdsRight75">无资料</td></tr>
+<tr><td class="msdsLeft">致突变性：</td><td class="msdsRight75">无资料</td></tr>
+<tr><td class="msdsLeft">致畸性：</td><td class="msdsRight75">无资料</td></tr>
+<tr><td class="msdsLeft">致癌性：</td><td class="msdsRight75">无资料</td></tr>
+
+</tbody></table>
+
+<table align="center" border="1" cellspacing="0" rules="all" style="border-collapse:collapse;" width="99%" class="chemicals">
+  <tbody><tr><td colspan="2" bgcolor="#FFF7D6"><div align="center"><a name="section12"></a>第十二部分：生态学资料</div></td></tr>
+ <tr><td class="msdsLeft">生态毒理毒性：</td><td class="msdsRight75">无资料</td></tr>
+<tr><td class="msdsLeft">生物降解性：</td><td class="msdsRight75">无资料</td></tr>
+<tr><td class="msdsLeft">非生物降解性：</td><td class="msdsRight75">无资料</td></tr>
+<tr><td class="msdsLeft">生物富集或生物积累性：</td><td class="msdsRight75">无资料</td></tr>
+<tr><td class="msdsLeft">其它有害作用：</td><td class="msdsRight75">工作后，淋浴更衣。注意个人清洁卫生。定期体检。</td></tr>
+
+</tbody></table>
+
+<table align="center" border="1" cellspacing="0" rules="all" style="border-collapse:collapse;" width="99%" class="chemicals">
+  <tbody><tr><td colspan="2" bgcolor="#FFF7D6"><div align="center"><a name="section13"></a>第十三部分：废弃处置</div></td></tr>
+ <tr><td class="msdsLeft">废弃物性质：</td><td class="msdsRight75">处置前应参阅国家和地方有关法规。建议用焚烧法处置。</td></tr>
+<tr><td class="msdsLeft">废弃处置方法：</td><td class="msdsRight75">无资料</td></tr>
+<tr><td class="msdsLeft">废弃注意事项：</td><td class="msdsRight75">无资料</td></tr>
+
+</tbody></table>
+
+<table align="center" border="1" cellspacing="0" rules="all" style="border-collapse:collapse;" width="99%" class="chemicals">
+  <tbody><tr><td colspan="2" bgcolor="#FFF7D6"><div align="center"><a name="section14"></a>第十四部分：运输信息</div></td></tr>
+ <tr><td class="msdsLeft">危险货物编号：</td><td class="msdsRight75">无资料</td></tr>
+<tr><td class="msdsLeft">UN编号：</td><td class="msdsRight75">无资料</td></tr>
+<tr><td class="msdsLeft">IMDG规则页码：</td><td class="msdsRight75">无资料</td></tr>
+<tr><td class="msdsLeft">包装标志：</td><td class="msdsRight75">无资料</td></tr>
+<tr><td class="msdsLeft">包装类别：</td><td class="msdsRight75">无资料</td></tr>
+<tr><td class="msdsLeft">包装方法：</td><td class="msdsRight75">无资料</td></tr>
+<tr><td class="msdsLeft">运输注意事项：</td><td class="msdsRight75">无资料</td></tr>
+
+</tbody></table>
+
+<table align="center" border="1" cellspacing="0" rules="all" style="border-collapse:collapse;" width="99%" class="chemicals">
+  <tbody><tr><td colspan="2" bgcolor="#FFF7D6"><div align="center"><a name="section15"></a>第十五部分：法规信息</div></td></tr>
+ <tr><td class="msdsLeft">法规信息：</td><td class="msdsRight75">无资料</td></tr>
+
+</tbody></table>
+
+<table align="center" border="1" cellspacing="0" rules="all" style="border-collapse:collapse;" width="99%" class="chemicals">
+  <tbody><tr><td colspan="2" bgcolor="#FFF7D6"><div align="center"><a name="section16"></a>第十六部分：其他信息</div></td></tr>
+  <tr><td class="msdsLeft">参考文献：</td><td class="msdsRight75"><a href="http://www.ichemistry.cn/chemistry/121-57-3.htm" target="_blank">http://www.ichemistry.cn/chemistry/121-57-3.htm</a><br></td></tr>
+<tr><td class="msdsLeft">修改说明：</td><td class="msdsRight75">无资料</td></tr>
+<tr><td class="msdsLeft">其他信息：</td><td class="msdsRight75">无资料</td></tr>
+
+ <tr><td class="msdsLeft">填表部门：</td><td class="msdsRight75">&nbsp;</td></tr>
+ <tr><td class="msdsLeft">审核部门：</td><td class="msdsRight75">&nbsp;</td></tr>
+</tbody></table>
+
+</div>
+
+</body>
+</html>
